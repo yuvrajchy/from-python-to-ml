@@ -1,21 +1,47 @@
-## Python Learning Journey  
+# Python Learning Journey
 
-Documenting my daily progress in **Python** and **Data Science** as part of the IITM Online Degree program.  
+Documenting my daily progress in **Python** and **Data Science**.
 
-## 📌 About  
-This repository contains:  
-- 📝 Daily learning notes  
-- 📒 Jupyter notebooks  
-- 💻 Code practice for Python and Data Science  
-
-I'm following a structured learning plan:  
-**Python Basics → Data Structures → SQL → Data Science → Machine Learning**  
-
-## 📅 Progress Tracking  
-Day 1: Python Basics , Pedefined keywords , Mutability and Immutability
-Day 2: Operators 
+![Last commit](https://img.shields.io/github/last-commit/YOUR_USERNAME/YOUR_REPO)
+![Repo size](https://img.shields.io/github/repo-size/YOUR_USERNAME/YOUR_REPO)
+![Python](https://img.shields.io/badge/Python-3.x-blue)
 
 ---
+
+## 📌 About
+This repository contains:
+- 📝 Daily learning notes  
+- 📓 Jupyter notebooks  
+- 💻 Practice code
+
+**Learning path:** Python Basics → Data Structures → SQL → Data Science → Machine Learning
+
+---
+
+## 📅 Progress Tracking
+
+| Day | Topics Covered | Notebook |
+|-----|----------------|----------|
+| 1   | Python Basics, Keywords, Mutability vs. Immutability | [View](Day_01/Day_01_Python_Basics.ipynb) |
+| 2   | Operators | [View](Day_02/Day_02_Operators.ipynb) |
+
+> I update this table as I add new days.
+
+---
+
+## 🚀 Next Topics
+- Functions
+- Conditionals
+- Loops
+- Strings
+- Lists & Tuples
+
+---
+git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
+cd YOUR_REPO
+# (Optional) create a venv and install packages
+jupyter notebook
+
 
 
 
