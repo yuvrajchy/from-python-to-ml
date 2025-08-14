@@ -24,7 +24,7 @@ This repository contains:
 |-----|----------------|----------|
 | 1   | Python Basics, Keywords, Mutability vs. Immutability | [View](Day_01/Day_01_Python_Basics.ipynb) |
 | 2   | Operators | [View](Day_02/Day_02_Operators.ipynb) |
-| 3   | Type casting | [View](Day_03/Day_03_Typecasting.ipynb) |
+| 3   | Type casting | [View](Day_03/Day_03_TypeCasting.ipynb) |
 
 > I update this table as I add new days.
 
