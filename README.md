@@ -24,22 +24,23 @@ This repository contains:
 |-----|----------------|----------|
 | 1   | Python Basics, Keywords, Mutability vs. Immutability | [View](Day_01/Day_01_Python_Basics.ipynb) |
 | 2   | Operators | [View](Day_02/Day_02_Operators.ipynb) |
+| 3   | Type casting | [view](Day_03/Day_03_Typecasting.ipynb) |
 
 > I update this table as I add new days.
 
 ---
 
-## 🚀 Next Topics
-- Functions
+##  Next Topics
 - Conditionals
 - Loops
 - Strings
-- Lists & Tuples
+- Lists
+- Tuples and sets
+- Dictionary
 
 ---
 git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
 cd YOUR_REPO
-# (Optional) create a venv and install packages
 jupyter notebook
 
 
