@@ -29,8 +29,8 @@ This repository contains:
 | 5   | Loops        | [View](Day_05/Day_05_loops.ipynb). |
 | 6   | Python ques  | [View](Day_06/Day_06_Python_Questions.ipynb) |
 | 7   | Intro to data structure | [View](Day_07/Day_07_Intro_to_data_structure.ipynb) |
-| 8   | Strings  | [Views](Day_08/Day_08_Strings.ipynb) |
-| 9   | Lists    | [Views](Day_09/Day_09_lists.ipynb)   |
+| 8   | Strings  | [View](Day_08/Day_08_strings.ipynb) |
+| 9   | Lists    | [View](Day_09/Day_09_lists.ipynb)   |
 
 > I update this table as I add new days.
 
