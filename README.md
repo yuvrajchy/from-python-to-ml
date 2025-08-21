@@ -31,14 +31,18 @@ This repository contains:
 | 7   | Intro to data structure | [View](Day_07/Day_07_Intro_to_data_structure.ipynb) |
 | 8   | Strings  | [View](Day_08/Day_08_strings.ipynb) |
 | 9   | Lists    | [View](Day_09/Day_09_lists.ipynb)   |
+| 10  | Tuples,sets and dictionary  | [View](Day_10/Day_10_Tuples_Sets_Dictionary.ipynb)  |
 
 > I update this table as I add new days.
 
 ---
 
 ##  Next Topics
-- Tuples and sets
-- Dictionary
+Data types and structures Assignment
+Functions
+Iterators and generators
+lamda,map,reduce and filter
+Function Assignment
 
 ---
 
