@@ -32,7 +32,7 @@ This repository contains:
 | 8   | Strings  | [View](Day_08/Day_08_strings.ipynb) |
 | 9   | Lists    | [View](Day_09/Day_09_lists.ipynb)   |
 | 10  | Tuples,sets and dictionary  | [View](Day_10/Day_10_Tuples_Sets_Dictionary.ipynb)  |
-| 11  | DataType and Structures Assignment  | [View](Day_11_Assignment_01_DataTypes_Structures.ipynb)  |
+| 11  | DataType and Structures Assignment  | [View](Day_11/Day_11_Assignment_01_DataTypes_Structures.ipynb)  |
 
 
 > I update this table as I add new days.
