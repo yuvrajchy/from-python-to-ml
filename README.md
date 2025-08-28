@@ -34,10 +34,11 @@ This repository contains:
 | 10  | Tuples,sets and dictionary  | [View](Day_10/Day_10_Tuples_Sets_Dictionary.ipynb)  |
 | 11  | DataType and Structures Assignment  | [View](Day_11/Day_11_Assignment_01_DataTypes_Structures.ipynb)  |
 | 12  | Function  | [view](Day_12/Day_12_Functions.ipynb)  |
-|13   | Iterators,generators,lambda,map reduce and filter  | [View](Day_13/Day_13_Iterators_Generators_FunctionalProgramming.ipynb)
+| 13  | Iterators,generators,lambda,map reduce and filter  | [View](Day_13/Day_13_Iterators_Generators_FunctionalProgramming.ipynb)
 | 14  | Function assignment  |  [View](Day_14/Day_14_Assignment_02_Function.ipynb)
 | 15  | OOPS   | [View](Day_15/Day_15_oops.ipynb)
-
+| 16  | Inheritance and abstraction  | [View](Day_16/Day_16_inheritance_abstraction.ipynb)
+| 17  | Polymorphism and Encapsulation  | [View](Day_17/Day_17_Polymorphism_and_Encapsulation.ipynb)
 
 > I update this table as I add new days.
 
@@ -45,8 +46,6 @@ This repository contains:
 
 ##  Next Topics
 
-Inheritance and abstraction
-Polymorphism and encapsulation
 Class and Static Method
 Dunder methods
 Decorators
