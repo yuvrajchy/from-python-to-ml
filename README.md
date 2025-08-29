@@ -39,6 +39,8 @@ This repository contains:
 | 15  | OOPS   | [View](Day_15/Day_15_oops.ipynb)
 | 16  | Inheritance and abstraction  | [View](Day_16/Day_16_inheritance_abstraction.ipynb)
 | 17  | Polymorphism and Encapsulation  | [View](Day_17/Day_17_Polymorphism_and_Encapsulation.ipynb)
+| 18  | class and static method   | [View](Day_18/Day_18_class_and_static_method.ipynb)
+
 
 > I update this table as I add new days.
 
@@ -46,7 +48,6 @@ This repository contains:
 
 ##  Next Topics
 
-Class and Static Method
 Dunder methods
 Decorators
 Property Decorators
