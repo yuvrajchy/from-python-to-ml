@@ -40,7 +40,7 @@ This repository contains:
 | 16  | Inheritance and abstraction  | [View](Day_16/Day_16_inheritance_abstraction.ipynb)
 | 17  | Polymorphism and Encapsulation  | [View](Day_17/Day_17_Polymorphism_and_Encapsulation.ipynb)
 | 18  | class and static method   | [View](Day_18/Day_18_class_and_static_method.ipynb)
-
+| 19  | dundermethods, decorators, properties | [View](Day_19/Day_19_dunder_methods_decorators_properties.ipynb)
 
 > I update this table as I add new days.
 
@@ -48,11 +48,12 @@ This repository contains:
 
 ##  Next Topics
 
-Dunder methods
-Decorators
-Property Decorators
 OOPS Assignment
-
+File handling basics
+Reeading and writing files
+Exceptional handling
+General use of exception handling
+Interpreted vs compiled language
 
 ---
 
