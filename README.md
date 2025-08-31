@@ -41,6 +41,7 @@ This repository contains:
 | 17  | Polymorphism and Encapsulation  | [View](Day_17/Day_17_Polymorphism_and_Encapsulation.ipynb)
 | 18  | class and static method   | [View](Day_18/Day_18_class_and_static_method.ipynb)
 | 19  | dundermethods, decorators, properties | [View](Day_19/Day_19_dunder_methods_decorators_properties.ipynb)
+| 20  | OOPS Assignment | [View](Day_20/Day_20_Assignment_02_oops.ipynb)
 
 > I update this table as I add new days.
 
@@ -48,7 +49,6 @@ This repository contains:
 
 ##  Next Topics
 
-OOPS Assignment
 File handling basics
 Reeading and writing files
 Exceptional handling
