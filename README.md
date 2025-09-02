@@ -42,8 +42,8 @@ This repository contains:
 | 18  | class and static method   | [View](Day_18/Day_18_class_and_static_method.ipynb)
 | 19  | dundermethods, decorators, properties | [View](Day_19/Day_19_dunder_methods_decorators_properties.ipynb)
 | 20  | OOPS Assignment | [View](Day_20/Day_20_Assignment_02_oops.ipynb)
-| 21  | File handling basics  | [Views](Day_21/Day_21_files_handling_basics.ipynb)
-| 22  | Reading and writing files  | [Views](Day_22/Day_22_file_reading_writing.ipynb)
+| 21  | File handling basics  | [View](Day_21/Day_21_files_handling_basics.ipynb)
+| 22  | Reading and writing files  | [View](Day_22/Day_22_file_reading_writing.ipynb)
 
 > I update this table as I add new days.
 
