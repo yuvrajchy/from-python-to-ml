@@ -43,6 +43,7 @@ This repository contains:
 | 19  | dundermethods, decorators, properties | [View](Day_19/Day_19_dunder_methods_decorators_properties.ipynb)
 | 20  | OOPS Assignment | [View](Day_20/Day_20_Assignment_02_oops.ipynb)
 | 21  | File handling basics  | [Views](Day_21/Day_21_files_handling_basics.ipynb)
+| 22  | Reading and writing files  | [Views](Day_22/Day_22_file_reading_writing.ipynb)
 
 > I update this table as I add new days.
 
@@ -50,7 +51,6 @@ This repository contains:
 
 ##  Next Topics
 
-Reeading and writing files
 Exceptional handling
 General use of exception handling
 Interpreted vs compiled language
