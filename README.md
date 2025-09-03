@@ -44,6 +44,7 @@ This repository contains:
 | 20  | OOPS Assignment | [View](Day_20/Day_20_Assignment_02_oops.ipynb)
 | 21  | File handling basics  | [View](Day_21/Day_21_files_handling_basics.ipynb)
 | 22  | Reading and writing files  | [View](Day_22/Day_22_file_reading_writing.ipynb)
+| 23  | Exceptional handling  | [View](Day_23/Day_23_exceptions_handling.ipynb)
 
 > I update this table as I add new days.
 
@@ -51,7 +52,6 @@ This repository contains:
 
 ##  Next Topics
 
-Exceptional handling
 General use of exception handling
 Interpreted vs compiled language
 Logging and debugging
