@@ -45,7 +45,7 @@ This repository contains:
 | 21  | File handling basics  | [View](Day_21/Day_21_files_handling_basics.ipynb)
 | 22  | Reading and writing files  | [View](Day_22/Day_22_file_reading_writing.ipynb)
 | 23  | Exceptional handling  | [View](Day_23/Day_23_exceptions_handling.ipynb)
-| 24  | general use of exceptions and best practices, logging and debugging, multithreading, multiprocessing [View](Day_24/Day_24_exceptions_logging_debugging_concurrency.ipynb)
+| 24  | general use of exceptions and best practices, logging and debugging, multithreading, multiprocessing  | [View](Day_24/Day_24_exceptions_logging_debugging_concurrency.ipynb)
 
 > I update this table as I add new days.
 
