@@ -46,6 +46,7 @@ This repository contains:
 | 22  | Reading and writing files  | [View](Day_22/Day_22_file_reading_writing.ipynb)
 | 23  | Exceptional handling  | [View](Day_23/Day_23_exceptions_handling.ipynb)
 | 24  | general use of exceptions and best practices, logging and debugging, multithreading, multiprocessing  | [View](Day_24/Day_24_exceptions_logging_debugging_concurrency.ipynb)
+| 25  | Assignment 03  | [View](Day_25/Day_25_Assignment_03.ipynb)
 
 > I update this table as I add new days.
 
@@ -53,7 +54,6 @@ This repository contains:
 
 ##  Next Topics
 
-Assignment
 Numpy
 Numpy Advance - 1
 Numpy Advance - 2
