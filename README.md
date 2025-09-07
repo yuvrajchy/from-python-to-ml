@@ -48,6 +48,8 @@ This repository contains:
 | 24  | general use of exceptions and best practices, logging and debugging, multithreading, multiprocessing  | [View](Day_24/Day_24_exceptions_logging_debugging_concurrency.ipynb)
 | 25  | Assignment 03  | [View](Day_25/Day_25_Assignment_03.ipynb)
 | 26  | Numpy  |  [View](Day_26/Day_26_Numpy_basics.ipynb)
+| 27  | Numpy Advanced - 1 | [View](Day_27/Day_27_Numpy_Advance_1.ipynb)
+
 
 > I update this table as I add new days.
 
@@ -55,7 +57,6 @@ This repository contains:
 
 ##  Next Topics
 
-Numpy Advance - 1
 Numpy Advance - 2
 Pandas Basics
 pandas Advance
