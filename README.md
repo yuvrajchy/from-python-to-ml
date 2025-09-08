@@ -49,7 +49,7 @@ This repository contains:
 | 25  | Assignment 03  | [View](Day_25/Day_25_Assignment_03.ipynb)
 | 26  | Numpy  |  [View](Day_26/Day_26_Numpy_basics.ipynb)
 | 27  | Numpy Advanced - 1 | [View](Day_27/Day_27_Numpy_Advance_1.ipynb)
-
+| 28  | Numpy Advanced - 2  | [View](Day_28/Day_28_Numpy_Advanced_2.ipynb)
 
 > I update this table as I add new days.
 
@@ -57,7 +57,6 @@ This repository contains:
 
 ##  Next Topics
 
-Numpy Advance - 2
 Pandas Basics
 pandas Advance
 pandas Advance - 3
