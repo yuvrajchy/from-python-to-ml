@@ -53,6 +53,7 @@ This repository contains:
 | 29  | Pandas Advance - 1  | [View](Day_29/Day_29_Pandas_Advance_1.ipynb)
 | 30  | Pandas Advance - 2  | [View](Day_30/Day_30_pandas_advance_2.ipynb)
 | 31  | pandas Advance - 3  | [View](Day_31/Day_31_pandas_advance_3.ipynb)
+| 32  | pandas Advance - 4  | [View](Day_32/Day_32_pandas_advance_4.ipynb)
 
 > I update this table as I add new days.
 
@@ -60,7 +61,6 @@ This repository contains:
 
 ##  Next Topics
 
-pandas Advance - 4
 Matplotlib
 Seaborn
 Plotly
