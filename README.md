@@ -56,6 +56,7 @@ This repository contains:
 | 32  | pandas Advance - 4  | [View](Day_32/Day_32_pandas_advance_4.ipynb)
 | 33  | matplotlib  | [View](Day_33/Day_33_Matplotlib.ipynb)
 | 34  | seaborn  | [View](Day-34/Day_34_Seaborn.ipynb)
+| 35  | plotly  | [View](Day_35/Day_35_Plotly.ipynb)
 
 > I update this table as I add new days.
 
@@ -63,7 +64,6 @@ This repository contains:
 
 ##  Next Topics
 
-Plotly
 Bokeh
 
 ---
