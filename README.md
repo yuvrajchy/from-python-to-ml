@@ -58,6 +58,7 @@ This repository contains:
 | 34  | seaborn  | [View](Day-34/Day_34_Seaborn.ipynb)
 | 35  | plotly  | [View](Day_35/Day_35_Plotly.ipynb)
 | 36  | Bokeh  | [View](Day_36/Day_36_Bokeh.ipynb)
+| 37  | Data toolkit Assignment | [View](Data_toolkit_Assignment.ipynb)
 
 > I update this table as I add new days.
 
@@ -65,7 +66,6 @@ This repository contains:
 
 ##  Next Topics
 
-Assignment
 
 ---
 
